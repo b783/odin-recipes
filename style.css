@@ -1,0 +1,33 @@
+* {
+    background-color: rgb(117, 216, 255);
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+h2 {
+    color: rgb(78, 62, 62);
+    font-size: 50px;
+    text-align: center;
+}
+.p1 {
+    text-align: center;
+    font-size: 40px;
+    color: indianred;
+}
+.p2 {
+    text-align: center;
+    font-size: 30px;
+    color: indianred;
+}
+img {
+    height: 400px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+li {
+    font-size: 30px;
+}
